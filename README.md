@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# Olá, eu sou o Lucas!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python
+- Preparando-se para o mercado de tecnologia
+- Contato: lucaslmoreira8@gmail.com
 <!--
 **lucaslmoreira8-maker/lucaslmoreira8-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
