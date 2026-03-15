@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Olá, eu sou o Lucas!
 - Estudante de Desenvolvimento de Sistemas
-- Focado em Python
+- Estudando Python
 - Preparando-se para o mercado de tecnologia
 - Contato: lucaslmoreira8@gmail.com
 # Como me encontrar
